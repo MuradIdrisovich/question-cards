@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/question-cards/static/css/main.6224abb5.css",
+    "main.js": "/question-cards/static/js/main.523664d9.js",
+    "index.html": "/question-cards/index.html",
+    "main.6224abb5.css.map": "/question-cards/static/css/main.6224abb5.css.map",
+    "main.523664d9.js.map": "/question-cards/static/js/main.523664d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6224abb5.css",
+    "static/js/main.523664d9.js"
+  ]
+}
